@@ -1,6 +1,10 @@
 # Microsoft Fabric Hackathon Model
 
-This repository contains the codebase for a model developed during the Microsoft Fabric Hackathon. The model facilitates the analysis of quantitative and qualitative data from the Immigration, Refugees and Citizenship Canada (IRCC) website, predicts scores for Canadian Permanent Resident draw scores, leverages on RAG architecture via a chatbot interface, and visualizes the data using PowerBI. 
+This repository contains the codebase for a model developed during the Microsoft Fabric Hackathon. The model facilitates the analysis of quantitative and qualitative data from the Immigration, Refugees and Citizenship Canada (IRCC) website to predicts scores for Canadian Permanent Resident draw scores, provide augmented and easy access to information through a RAG Chatbot and visualized data using Microsoft Fabric. Therefore helping thousands of immgrants achieve their dreams with ease and peace. 
+
+## Microsoft Fabric Co-Pilot Extension
+
+Enable individuals to build custom dashboard on Microsoft PowerBI by stating what dashboard they would prefer to see through the RAG Chatbot
 
 This repo retrieved data from the Immigration, Refugees and Citizenship Canada (IRCC)
 [https://www.canada.ca/en/immigration-refugees-citizenship](https://www.canada.ca/en/immigration-refugees-citizenship.html)
@@ -45,6 +49,7 @@ To build the projectn the following tools were used:
 6. Microsoft OpenAI ADA- embedding
 7. Microsoft PowerBI
 8. Microsoft Fabric Experimentation
+9. Microsoft Copilot
 
 ## Repository Structure))
 - **/data_pipeline**: Contains scripts and configurations for the automated data pipeline.
