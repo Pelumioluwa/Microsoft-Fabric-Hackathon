@@ -29,9 +29,9 @@ The model performs the following tasks:
     - Utilizes PowerBI to visualize qualitative data, quantitative data from IRCC, and predictions from the model.
   
 ![Model Architecture](https://github.com/Pelumioluwa/Microsoft-Fabric-Hackathon/blob/main/PR%20Quantitative%20Data%20PR%20Scores%20Table.jpg)
+![Video Presentation]([https://github.com/Pelumioluwa/Microsoft-Fabric-Hackathon/blob/main/PR%20Quantitative%20Data%20PR%20Scores%20Table.jpg](https://yuoffice-my.sharepoint.com/:v:/r/personal/pelumi_yorku_ca/Documents/Microsoft%20Fabric%20Hackathon.webm?csf=1&web=1&e=JHc4hz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-## Repository Structure
-
+## Repository Structure))
 - **/data_pipeline**: Contains scripts and configurations for the automated data pipeline.
 - **/prediction_model**: Includes code for the Synapse prediction model.
 - **/rag_chatbot**: Contains code for the retrieval augmented generative model and the chatbot interface.
