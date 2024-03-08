@@ -34,7 +34,7 @@ The model performs the following tasks:
 
 - **/data_pipeline**: Contains scripts and configurations for the automated data pipeline.
 - **/prediction_model**: Includes code for the Synapse prediction model.
-- **/chatbot_interface**: Contains code for the retrieval augmented generative model and the chatbot interface.
+- **/rag_chatbot**: Contains code for the retrieval augmented generative model and the chatbot interface.
 - **/visualization**: Holds files and scripts for data visualization using PowerBI.
 
 ## Getting Started
