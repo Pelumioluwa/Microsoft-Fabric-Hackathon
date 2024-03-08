@@ -28,6 +28,7 @@ The model performs the following tasks:
 4. **Data Visualization**:
     - Utilizes PowerBI to visualize qualitative data, quantitative data from IRCC, and predictions from the model.
   
+![Model Architecture](https://github.com/Pelumioluwa/Microsoft-Fabric-Hackathon/blob/main/PR%20Quantitative%20Data%20PR%20Scores%20Table.jpg)
 
 ## Repository Structure
 
