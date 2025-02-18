@@ -59,7 +59,7 @@ To build the projectn the following tools were used:
 
 ## Contributing
 
-I would appreciate any thoughts or contributions to improve the model and its functionalities. If you'd like to contribute, please kindly reach out to me via pelumi@yorku.ca
+I would appreciate any thoughts or contributions to improve the model and its functionalities. If you'd like to contribute, please kindly reach out to me via pelumioluwaabiola@gmail.com
 
 
 ## License
